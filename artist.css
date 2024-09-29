@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+table, th, td { 
+	border: dotted; color:deeppink;
+	padding: 10px 5px 10px 5px;
+	font:italic; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+		
+}
