@@ -7,3 +7,11 @@ table, th, td {
 	font:italic; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
 		
 }
+ol {
+	background: rgba(14,179,229,1.00); list-style-type: decimal;
+		
+}
+ul {background: rgba(227,219,29,1.00); list-style-type: circle;
+	
+	
+}
